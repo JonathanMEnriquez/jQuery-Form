@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#wrapper{
+    width: 500px;
+    display: inline-block;
+    padding-left: 5px;
+}
+
+#wrapper h1{
+    padding: 5px 0px 10px 0px;
+    font-size: 25px;
+}
+
+.table{
+    width: 99%;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+#submit{
+    margin-top: 5px;
+}
